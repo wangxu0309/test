@@ -1,4 +1,3 @@
 #忽略index.js文件
-index.js
 #忽略所有test中的文件
 test/
